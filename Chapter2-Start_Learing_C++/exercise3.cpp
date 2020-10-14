@@ -10,6 +10,7 @@ int main()
     fun1();
     fun2();
     fun2();
+    return 0;
 }
 
 void fun1()

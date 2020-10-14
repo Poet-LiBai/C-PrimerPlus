@@ -9,5 +9,6 @@ int main()
     int ma_units;
     ma_units = long_units * 220;
     cout << long_units << " long units = " << ma_units << " ma units" << endl;
+    return 0;
 
 }

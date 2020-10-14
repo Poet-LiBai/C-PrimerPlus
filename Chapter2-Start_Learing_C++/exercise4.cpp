@@ -9,4 +9,5 @@ int main()
     int month;
     month = 12 * age;
     cout << "Your age amount to: " << month << " months" << endl;
+    return 0;
 }
